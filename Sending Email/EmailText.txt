@@ -1,0 +1,15 @@
+<p style="margin-left: 0.5in;">&nbsp;</p>
+<div><span style="font-size: 14px;">Dear [#USERFIRSTNAME#],</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 14px;">Please use the this link to reset your password on CLiX:&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">[#RESETPASSWORDLINK#]</span></div>
+<div>&nbsp;</div>
+<div>This link&nbsp; will get expired in 30 Minutes&nbsp;</div>
+<div>&nbsp;</div>
+<div><span style="font-size: 14px;">Please use the login link below after you have reset the new password for your account.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #ffffff;">www.CLIXLOGINPAGELINK.com</span></div>
+<div>&nbsp;</div>
+<div></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 14px;">Thanks,</span></div>
+<div><span style="font-size: 14px;">Easyrewardz</span></div>
